@@ -20,10 +20,13 @@ h1 {
 
 .ingre-container {
     display: inline-block;
-    position: absolute;
     margin-left: 50px;
     padding: 25px;
     width: 400px;
+}
+
+.ingre-container.lemonade {
+    position: absolute;
 }
 
 
