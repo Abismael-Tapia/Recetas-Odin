@@ -1,0 +1,52 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    background-color: lightblue;
+    
+    color: white;
+    text-align: center;
+}
+
+
+.ingre-container {
+    display: inline-block;
+    margin-left: 50px;
+    
+    
+}
+
+img {
+    width: 300px;
+    height: auto;
+    border-radius: 25%;
+}
+
+.steps-container {
+    text-align: justify;    
+    width: 800px;
+    height: auto;
+}
+
+.img-container {
+    display: inline-block;
+
+}
+
+.i-ulist {
+    display: inline-block;
+    
+}
+
+.lasagna-item {
+    color: red;
+}
+
+.rice-item {
+    color: lightgreen;
+}
+
+.lemonade-item {
+    color: green;
+}
