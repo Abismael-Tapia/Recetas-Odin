@@ -1,5 +1,10 @@
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+    
 }
 
 h1 {
@@ -9,24 +14,32 @@ h1 {
     text-align: center;
 }
 
+.r-u-list {
+    margin: 25px;
+}
 
 .ingre-container {
     display: inline-block;
+    position: absolute;
     margin-left: 50px;
-    
-    
+    padding: 25px;
+    width: 400px;
 }
 
+
 img {
+    margin: 15px;
     width: 300px;
     height: auto;
     border-radius: 25%;
 }
 
 .steps-container {
+    margin-top: -px;
     text-align: justify;    
     width: 800px;
     height: auto;
+    padding: 25px;
 }
 
 .img-container {
@@ -36,6 +49,7 @@ img {
 
 .i-ulist {
     display: inline-block;
+    
     
 }
 
